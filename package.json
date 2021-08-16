@@ -1,0 +1,28 @@
+{
+  "name": "app-gulp-siblimmmit",
+  "version": "1.0.0",
+  "description": "sublimmmit-gulp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sublimit14/app-gulp-siblimmmit.git"
+  },
+  "keywords": [
+    "gulp",
+    "sublimit14",
+    "build"
+  ],
+  "author": "Bogdan Dolgopolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sublimit14/app-gulp-siblimmmit/issues"
+  },
+  "homepage": "https://github.com/sublimit14/app-gulp-siblimmmit#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
