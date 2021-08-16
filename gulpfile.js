@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@sublimit14 
-maxdenaro
-/
-maxgraph-youtube-source
-20
-135549
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-maxgraph-youtube-source/Gulp 4. Подробное руководство/gulpfile.js /
-@maxdenaro
-maxdenaro fix task scripts
-Latest commit 4cbdf2e on 19 Jul 2020
- History
- 1 contributor
-251 lines (222 sloc)  5.48 KB
-  
 const {src, dest, parallel, series, watch} = require('gulp');
 const sass = require('gulp-sass');
 const notify = require('gulp-notify');
